@@ -1,0 +1,2 @@
+# config.py
+VIRUSTOTAL_API_KEY = '991e9ae8beae96c90b9a5b218aef860f0bc80e16a7d710dd0d17cb42f7eb9c01'
